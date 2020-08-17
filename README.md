@@ -1,5 +1,8 @@
 # TabDrive
 
+## Note
+The repository was created 1 week ago, however the project itself was made starting Saturday. 
+
 ## Demo
 https://1drv.ms/v/s!AhgwwDStSlSYgoICoVFECmNQlxxhig
 
