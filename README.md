@@ -3,7 +3,7 @@
 ## Cloning Instructions 
 *XCode 11 is required to clone project*
 1) Press green "code" button on main github screen
-2) Copy HTML address
+2) Copy web address
 3) Open XCode
 4) Press "Clone an existing project"
 5) Paste from clipboard
