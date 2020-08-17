@@ -1,8 +1,5 @@
 # TabDrive
 
-## Note
-The repository was created 1 week ago, however the project itself was made starting Saturday. 
-
 ## Demo
 https://1drv.ms/v/s!AhgwwDStSlSYgoICoVFECmNQlxxhig
 
@@ -26,3 +23,6 @@ We learned how to export Tensorflow models to XCode and implement VR tools in iO
 
 ## What's Next For DriveSafe
 Hopefully larger distracted driving datasets will be created, so we can retrain our model and classify a wider variety of bad driving habits. We also plan on improving the user interface to make it more aesthetically pleasing for our users.
+
+## Note
+The repository was created 1 week ago, however the project itself was made starting Saturday. 
