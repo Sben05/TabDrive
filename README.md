@@ -1,5 +1,14 @@
 # TabDrive
 
+## Cloning Instructions 
+*XCode 11 is required to clone project*
+1) Press green "code" button on main github screen
+2) Copy HTML address
+3) Open XCode
+4) Press "Clone an existing project"
+5) Paste from clipboard
+6) Hit Clone
+*Note: GPS Capibilites require another device to transmit location to iPhone, this can be done using a variety of ways*
 
 ## Demo
 https://1drv.ms/v/s!AhgwwDStSlSYgoICoVFECmNQlxxhig
